@@ -21,4 +21,10 @@ first|second
 a|b
 c|d
 
+# checkList
+- [X] Turn on GitHub Pages
+- [ ] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
