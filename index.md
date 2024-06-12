@@ -27,4 +27,17 @@ c|d
 - [X] Outline my portfolio
 - [ ] Introduce myself to the world
 
+# lists
+1. ordered list
+1. hello
+1. how are you
+- unordered list
+- apple
+- ball
+  - camel
 
+# Breaking Tags 
+Hello My name is *Aafthab* <br /> I have completed the markdown course using **github** > foundation course    
+
+/code
+/details
